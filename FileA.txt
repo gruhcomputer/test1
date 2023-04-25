@@ -1,0 +1,2 @@
+sample text file A
+changed version 2
